@@ -1,5 +1,7 @@
 # AIWget Official MCP Server (`v2.0.0`)
 
+[![AIWget MCP connector](https://glama.ai/mcp/connectors/io.github.aiwget/aiwget-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aiwget/aiwget-mcp)
+
 Official zero-auth, read-only **Streamable HTTP** [Model Context Protocol](https://modelcontextprotocol.io) server for **[AIWget](https://aiwget.com)** — a curated B2B AI software directory and hands-on API/MCP benchmark hub.
 
 - **Official Website (B2B AI Directory & Benchmarks)**: `https://aiwget.com`
