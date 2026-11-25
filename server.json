@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.aiwget/aiwget-mcp",
-  "title": "AIWget Official MCP Server (B2B AI Directory, API TCO & Authority)",
-  "description": "Official zero-auth Streamable HTTP MCP server for AIWget — search curated B2B AI software, run Nov 2026 API TCO benchmarks, inspect MCP endpoints, and check Domain Rating.",
+  "title": "AIWget Official B2B AI Directory & Benchmark MCP",
+  "description": "Official AIWget MCP server: search vetted B2B AI tools, run API TCO benchmarks & check DR.",
   "version": "2.0.0",
   "websiteUrl": "https://aiwget.com",
   "repository": {
