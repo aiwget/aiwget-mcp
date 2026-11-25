@@ -1,0 +1,23 @@
+{
+  "name": "aiwget-mcp",
+  "version": "2.0.0",
+  "description": "Official Streamable HTTP MCP Server for AIWget — Curated B2B AI Software Directory, Hands-On API TCO Benchmarks & Domain Authority",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://aiwget.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiwget/aiwget-mcp.git"
+  },
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/**/*.test.ts"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "streamable-http",
+    "rfc9728",
+    "oauth2",
+    "inspector"
+  ]
+}
